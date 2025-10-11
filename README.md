@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Atik (Coder Bondhu)
+## 👋 Hi, I'm DevAtik
 
 🚀 A passionate **Frontend Developer** and aspiring **Software Engineer** from Bangladesh.  
 I love creating modern, responsive, and interactive web apps using **React.js**, **JavaScript**, and **APIs**.
