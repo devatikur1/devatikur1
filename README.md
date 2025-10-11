@@ -42,8 +42,9 @@ To become a skilled **Software Engineer** who builds impactful and user-friendly
 Always learning, always improving. 🚀
 
 ---
-
 > _"Code like a human, think like a machine."_ — **Atikur Rahman Atik** 💻
+---
+
 
 # 🚀 My Amazing Web Development Projects
 
@@ -231,7 +232,6 @@ npx serve .
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
----
 
 <div align="center">
   <p>⭐ <strong>If you found this helpful, please give it a star!</strong> ⭐</p>
