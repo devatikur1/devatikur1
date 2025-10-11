@@ -43,6 +43,8 @@ Always learning, always improving. 🚀
 
 ---
 
+> _"Code like a human, think like a machine."_ — **Atikur Rahman Atik** 💻
+
 # 🚀 My Amazing Web Development Projects
 
 <div align="center">
@@ -229,12 +231,9 @@ npx serve .
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-> _"Code like a human, think like a machine."_ — **Atikur Rahman Atik** 💻
 ---
 
 <div align="center">
   <p>⭐ <strong>If you found this helpful, please give it a star!</strong> ⭐</p>
   <p>Made with ❤️ and lots of ☕</p>
 </div>
-
