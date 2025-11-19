@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm devatikur
 
+
 🚀 A passionate **Frontend Developer** and aspiring **Software Engineer** from Bangladesh.  
 I love creating modern, responsive, and interactive web apps using **React.js**, **JavaScript**, and **APIs**.
 
@@ -43,4 +44,5 @@ Always learning, always improving. 🚀
 
 ---
 > _"Code like a human, think like a machine."_ — **Atikur Rahman Atik** 💻
----
+
+    
